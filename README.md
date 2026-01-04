@@ -1,6 +1,20 @@
 # 💫 About Me:
 A DevOps Engineer with a demonstrated history of working in automation-driven environments, skilled in DevOps practices, Amazon Web Services (AWS), and other cloud platforms. Additionally, an experienced eDiscovery professional with hands-on exposure to legal data processing and analytics workflows.<br><br>Currently working at Reveal Data, with prior experience at EY LLP and Consilio LLC.
 
+### 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/ghouseshaik/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+<a href="mailto:ghouseshaik1272@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+</a>
+<a href="https://multicloudnavigator.blogspot.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blogger/blogger-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.youtube.com/@DevopsbyGhouse-MCN" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40"/>
+</a>
 
 ## 🌐 Socials:
 
@@ -9,9 +23,8 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
 📝 **Blog:** [MultiCloud Navigator](https://multicloudnavigator.blogspot.com)
 📺 **YouTube:** [DevOps by Ghouse](https://www.youtube.com/@DevopsbyGhouse-MCN)
 
+### 🛠️ Languages & Tools
 
-
-# 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -30,6 +43,7 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shaikghouse1272&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
