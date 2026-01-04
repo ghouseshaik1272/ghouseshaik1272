@@ -3,14 +3,11 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghouseshaik1272@gmail.com) 
-🔗 **LinkedIn:** [Ghouse Shaik](https://www.linkedin.com/in/ghouseshaik/)  
+
+🔗 **LinkedIn:** [Ghouse Shaik](https://www.linkedin.com/in/ghouseshaik/)
 📧 **Email:** [ghouseshaik1272@gmail.com](mailto:ghouseshaik1272@gmail.com)
-### 🌐 Social Links
-- 💼 **LinkedIn:** [Ghouse Shaik](https://www.linkedin.com/in/ghouseshaik/)
-- 📧 **Email:** [ghouseshaik1272@gmail.com](mailto:ghouseshaik1272@gmail.com)
-- 📝 **Blog:** [MultiCloud Navigator](https://multicloudnavigator.blogspot.com)
-- 📺 **YouTube:** [DevOps by Ghouse](https://www.youtube.com/@DevopsbyGhouse-MCN)
+📝 **Blog:** [MultiCloud Navigator](https://multicloudnavigator.blogspot.com)
+📺 **YouTube:** [DevOps by Ghouse](https://www.youtube.com/@DevopsbyGhouse-MCN)
 
 
 
@@ -39,8 +36,6 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
 ![](https://nirzak-streak-stats.vercel.app/?user=shaikghouse1272&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikghouse1272&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Blogs & Content
-- https://multicloudnavigator.blogspot.com
 ---
 [![](https://visitcount.itsvg.in/api?id=shaikghouse1272&icon=0&color=0)](https://visitcount.itsvg.in)
 
