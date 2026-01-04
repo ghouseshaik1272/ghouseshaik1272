@@ -39,3 +39,8 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
 [![](https://visitcount.itsvg.in/api?id=shaikghouse1272&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🤝 Let’s Connect
+Open to DevOps, SRE, and Cloud opportunities.  
+Happy to collaborate or discuss roles—feel free to connect via LinkedIn or Email.
+
