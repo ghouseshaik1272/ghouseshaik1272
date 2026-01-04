@@ -3,11 +3,10 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghouseshaik/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghouseshaik1272@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://multicloudnavigator.blogspot.com)
-[![YouTube](https://img.shields.io/badge/YouTube-DevOpsbyGhouse-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevopsbyGhouse-MCN)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ghouseshaik/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail)](mailto:ghouseshaik1272@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?logo=blogger)](https://multicloudnavigator.blogspot.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube)](https://www.youtube.com/@DevopsbyGhouse-MCN)
 
 ## 🌐 Socials:
 
