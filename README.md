@@ -6,6 +6,12 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghouseshaik1272@gmail.com) 
 🔗 **LinkedIn:** [Ghouse Shaik](https://www.linkedin.com/in/ghouseshaik/)  
 📧 **Email:** [ghouseshaik1272@gmail.com](mailto:ghouseshaik1272@gmail.com)
+### 🌐 Social Links
+- 💼 **LinkedIn:** [Ghouse Shaik](https://www.linkedin.com/in/ghouseshaik/)
+- 📧 **Email:** [ghouseshaik1272@gmail.com](mailto:ghouseshaik1272@gmail.com)
+- 📝 **Blog:** [MultiCloud Navigator](https://multicloudnavigator.blogspot.com)
+- 📺 **YouTube:** [DevOps by Ghouse](https://www.youtube.com/@DevopsbyGhouse-MCN)
+
 
 
 # 💻 Tech Stack:
