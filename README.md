@@ -18,16 +18,16 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ghouseshaik/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
 </a>
 <a href="mailto:ghouseshaik1272@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
 </a>
 <a href="https://multicloudnavigator.blogspot.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blogger/blogger-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/blogger/FF5722" width="40"/>
 </a>
 <a href="https://www.youtube.com/@DevopsbyGhouse-MCN">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/>
 </a>
 </p>
 
