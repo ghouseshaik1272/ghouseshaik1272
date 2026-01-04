@@ -16,6 +16,21 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40"/>
 </a>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/ghouseshaik/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+<a href="mailto:ghouseshaik1272@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+</a>
+<a href="https://multicloudnavigator.blogspot.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blogger/blogger-original.svg" width="40"/>
+</a>
+<a href="https://www.youtube.com/@DevopsbyGhouse-MCN">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
+</a>
+</p>
+
 ## 🌐 Socials:
 
 🔗 **LinkedIn:** [Ghouse Shaik](https://www.linkedin.com/in/ghouseshaik/)
