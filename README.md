@@ -4,6 +4,9 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghouseshaik1272@gmail.com) 
+🔗 **LinkedIn:** [Ghouse Shaik](https://www.linkedin.com/in/ghouseshaik/)  
+📧 **Email:** [ghouseshaik1272@gmail.com](mailto:ghouseshaik1272@gmail.com)
+
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
