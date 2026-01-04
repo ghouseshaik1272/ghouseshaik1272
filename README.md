@@ -3,18 +3,11 @@ A DevOps Engineer with a demonstrated history of working in automation-driven en
 
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/ghouseshaik/">
-  <img src="https://unpkg.com/simple-icons@v11/icons/linkedin.png" width="40" />
-</a>
-<a href="mailto:ghouseshaik1272@gmail.com">
-  <img src="https://unpkg.com/simple-icons@v11/icons/gmail.png" width="40" />
-</a>
-<a href="https://multicloudnavigator.blogspot.com">
-  <img src="https://unpkg.com/simple-icons@v11/icons/blogger.png" width="40" />
-</a>
-<a href="https://www.youtube.com/@DevopsbyGhouse-MCN">
-  <img src="https://unpkg.com/simple-icons@v11/icons/youtube.png" width="40" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghouseshaik/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghouseshaik1272@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://multicloudnavigator.blogspot.com)
+[![YouTube](https://img.shields.io/badge/YouTube-DevOpsbyGhouse-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevopsbyGhouse-MCN)
+
 
 ## 🌐 Socials:
 
